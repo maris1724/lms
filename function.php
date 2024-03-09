@@ -4,7 +4,7 @@
 
 function base_url()
 {
-	return 'http://localhost/library_management_system/';
+	return 'http://localhost/lms/';
 }
 
 function is_admin_login()
